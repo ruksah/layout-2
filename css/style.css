@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.body{
+    overflow: hidden;
+}
+.header{
+    height: 100px;
+    width: 100%;
+    background: #a8d5e2;
+    text-align: center;
+}
+.center{
+    height: 500px;
+    width: 100%;
+    text-align: center;
+}
+.center_left{
+    height: 300px;
+    width: 50%;
+    float: left;
+    background: #f9a620;
+}
+.center_right{
+    height: 300px;
+    width: 50%;
+    float: left;
+    background: #ffd449;
+}
+.center_down{
+    height: 200px;
+    width: 100%;
+    background: #548c2f;
+    float: left;
+}
+.bottom{
+    height: 150px;
+    width: 100%;
+    text-align: center;
+    background: #104911;
+}
